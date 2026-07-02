@@ -12,7 +12,7 @@
 ## 一键部署
 
 ```bash
-wget -qO argox.sh https://raw.githubusercontent.com/hkzping999/Argo-PQC/main/argox.sh
+wget -qO argox.sh https://raw.githubusercontent.com/hkzping999/Argo-PQC-Strong/main/argox.sh
 bash -n argox.sh && sudo bash argox.sh -l
 ```
 
