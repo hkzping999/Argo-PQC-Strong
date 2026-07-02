@@ -9,9 +9,8 @@ This hotfix fixes VLESS Encryption client-side RTT formatting.
 Expected client link format:
 
 ```
-wget -qO argox.sh https://raw.githubusercontent.com/hkzping999/Argo-PQC-Strong/main/argox.sh
-wc -l argox.sh
-bash -n argox.sh
+bash <(wget -qO- https://raw.githubusercontent.com/hkzping999/Argo-PQC-Strong/main/argox.sh)
+
 ```
 
 Expected server config format:
